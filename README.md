@@ -20,6 +20,12 @@ This amalgamation of Node.js, JavaScript, MongoDB, Mongoose, Bootstrap, and Hand
 ->This serves as the primary interface once a user has been successfully authenticated and logged into the system. It features a navigation bar and a dynamic carousel showcasing various images, displaying the selected subject.
 ![image](https://github.com/Charuuu1/Learning_Management_System/assets/139768950/ad109df8-355a-4a8f-9334-dba5bb64d0ee)
 
+While navigating through the aforementioned page, the available courses are displayed along with a button that links to corresponding videos accessible on YouTube.
+![image](https://github.com/Charuuu1/Learning_Management_System/assets/139768950/6be45be9-8d13-4a92-9cd9-e71c2b76a5db)
+
+->Upon selecting the 'access course' button, the subsequent page will initiate the YouTube videos associated with the course.
+![image](https://github.com/Charuuu1/Learning_Management_System/assets/139768950/d7978a45-33a4-4f98-aab8-c5760821d450)
+
 
 
 
