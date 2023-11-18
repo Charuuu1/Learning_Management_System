@@ -6,7 +6,10 @@ The frontend design flourishes through the utilization of Bootstrap, allowing fo
 This amalgamation of Node.js, JavaScript, MongoDB, Mongoose, Bootstrap, and Handlebars within the dynamic web project ensures a comprehensive and adaptable system that empowers effective learning experiences.
 # About the Project
 ->This webpage serves as the initial interface of the site, encompassing the authentication section for user login and registration. It interfaces with the database to securely store all previously uploaded information.
-![Uploading image.png…]()
-->
+![image](https://github.com/Charuuu1/Learning_Management_System/assets/139768950/356c8520-e462-4ef0-ab54-47da1d760d82)
+
+->This particular page is designed for the registration process, ensuring that every new visitor to the site registers upon their arrival.
+![image](https://github.com/Charuuu1/Learning_Management_System/assets/139768950/386b62d2-a106-47c2-87cb-835635de01f1)
+
 
 
